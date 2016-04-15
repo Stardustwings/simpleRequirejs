@@ -9,6 +9,3 @@
 # API
   * require(func)
   * define(deps, func)
-
-# License
-  MIT
